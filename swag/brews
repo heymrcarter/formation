@@ -5,10 +5,12 @@ wget
 yarn
 rbenv
 gh
-node@16
+node
 dotnet
 python@3.10
 podman
 podman-compose
 kubectl
 helm
+ansible
+terraform

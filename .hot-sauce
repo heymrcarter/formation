@@ -1,0 +1,8 @@
+# Download and configure the ADO agent
+
+cd ~/Downloads
+curl -O https://vstsagentpackage.azureedge.net/agent/2.206.1/vsts-agent-osx-x64-2.206.1.tar.gz
+cd ~
+mkdir agent && cd agent
+tar zxvf ~/Downloads/vsts-agent-osx-x64-2.206.1.tar.gz
+./config.sh

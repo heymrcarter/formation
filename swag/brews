@@ -1,9 +1,14 @@
 asciinema
 git
-tig
 mas
 wget
-hub
-hugo
 yarn
 rbenv
+gh
+node@16
+dotnet
+python@3.10
+podman
+podman-compose
+kubectl
+helm
